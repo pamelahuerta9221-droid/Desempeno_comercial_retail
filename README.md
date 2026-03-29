@@ -31,6 +31,14 @@ Se describe de forma estructurada la historia completa del dashboard usando SCQA
 
 ### 🖥️ Vista General (Overview)
 
+
+
+<p align="center">
+  <img src="screenshots/Overview.png" width="800">
+</p>
+
+
+
 #### S (Situación):
 
 Andes Retail Group opera en tres mercados principales (Perú, Chile y Colombia) con presencia en múltiples segmentos de clientes y categorías de productos. La empresa enfrenta dinámicas estacionales significativas, donde el desempeño varía considerablemente entre trimestres.
@@ -62,6 +70,14 @@ En conjunto, el negocio muestra solidez en generación de ingresos, pero con una
 
 
 ### 🔎 Vista Detalle
+
+
+
+<p align="center">
+  <img src="screenshots/Detalle.png" width="800">
+</p>
+
+
 
 #### S (Situación):
 
