@@ -29,8 +29,9 @@ Modelo de narrativa SQCA
 ## 📖Narrativa del Dashboard (Modelo SCQA)
 Se describe de forma estructurada la historia completa del dashboard usando SCQA, incluyendo contexto, problemas detectados, preguntas de negocio y recomendaciones basadas en datos.
 
+<div align="center">
 ### 🖥️ Vista General (Overview)
-
+</div>
 
 
 <p align="center">
