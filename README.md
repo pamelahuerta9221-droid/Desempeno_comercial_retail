@@ -72,7 +72,11 @@ En conjunto, el negocio muestra solidez en generación de ingresos, pero con una
 
 
 
-### 🔎 Vista Detalle
+<div align="center">
+
+### 🔍 Vista Detalle
+
+</div>
 
 
 
