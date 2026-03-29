@@ -29,6 +29,8 @@ Modelo de narrativa SQCA
 ## 📖Narrativa del Dashboard (Modelo SCQA)
 Se describe de forma estructurada la historia completa del dashboard usando SCQA, incluyendo contexto, problemas detectados, preguntas de negocio y recomendaciones basadas en datos.
 
+
+
 <div align="center">
 
 ### 🖥️ Vista General (Overview)
@@ -69,6 +71,8 @@ El segmento de clientes premium es el principal generador de ingresos, concentra
 La categoría de Deportes se posiciona como una de las principales fuentes de ingresos.
 Se observan variaciones en el desempeño entre países, lo que refleja diferencias en la dinámica comercial según el mercado.
 En conjunto, el negocio muestra solidez en generación de ingresos, pero con una alta dependencia de la estacionalidad y de segmentos y categorías específicas como principales impulsores del desempeño.
+
+
 
 
 
